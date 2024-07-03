@@ -63,9 +63,3 @@ scoreBox.appendChild(textBoxO);
 scoreBox.appendChild(gameCountBox);
 
 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Tanvikarma24/Gamejs.git
-git push -u origin main
